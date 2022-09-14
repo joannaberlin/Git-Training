@@ -9,3 +9,7 @@ Znalazłam tylko to w dokumentacji:
 html-validate FILENAME..
 
 Użyłam: html-validate index.html
+
+Znalazłam w dalszej części modułu:
+html-validate *.html
+
