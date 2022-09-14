@@ -1,0 +1,11 @@
+Instalacja:
+npm install -g html-validate
+
+Usage:
+html-validate [OPTIONS] [FILE|DIR|GLOB...]
+
+Nie wiem, jak sprawdzić wszystkie pliki.
+Znalazłam tylko to w dokumentacji:
+html-validate FILENAME..
+
+Użyłam: html-validate index.html
